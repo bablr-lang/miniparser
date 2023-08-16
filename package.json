@@ -1,0 +1,21 @@
+{
+  "name": "@bablr/miniparser",
+  "description": "A parser-bootstrapping parser",
+  "version": "0.0.0",
+  "author": "Conrad Buck<conartist6@gmail.com>",
+  "type": "module",
+  "files": [
+    "lib"
+  ],
+  "exports": {
+    ".": "./lib/index.js"
+  },
+  "sideEffects": false,
+  "devDependencies": {
+    "prettier": "^2.6.2",
+    "eslint": "^7.32.0"
+  },
+  "repository": "github:bablr-lang/miniparser",
+  "homepage": "https://github.com/bablr-lang/miniparser",
+  "license": "MIT"
+}
