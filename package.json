@@ -12,10 +12,16 @@
   },
   "sideEffects": false,
   "devDependencies": {
-    "prettier": "^2.6.2",
-    "eslint": "^7.32.0"
+    "enhanced-resolve": "^5.12.0",
+    "eslint": "^7.32.0",
+    "eslint-import-resolver-enhanced-resolve": "^1.0.5",
+    "eslint-plugin-import": "^2.27.5",
+    "prettier": "^2.6.2"
   },
   "repository": "github:bablr-lang/miniparser",
   "homepage": "https://github.com/bablr-lang/miniparser",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "escape-string-regexp": "^5.0.0"
+  }
 }
