@@ -12,7 +12,11 @@
     ".": "./lib/index.js"
   },
   "sideEffects": false,
+  "dependencies": {
+    "escape-string-regexp": "^5.0.0"
+  },
   "devDependencies": {
+    "@bablr/eslint-config-base": "github:bablr-lang/eslint-config-base#a49dbe6861a82d96864ee89fbf0ec1844a8a5e8e",
     "enhanced-resolve": "^5.12.0",
     "eslint": "^7.32.0",
     "eslint-import-resolver-enhanced-resolve": "^1.0.5",
@@ -21,8 +25,5 @@
   },
   "repository": "github:bablr-lang/miniparser",
   "homepage": "https://github.com/bablr-lang/miniparser",
-  "license": "MIT",
-  "dependencies": {
-    "escape-string-regexp": "^5.0.0"
-  }
+  "license": "MIT"
 }
