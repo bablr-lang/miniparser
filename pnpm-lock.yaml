@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@bablr/eslint-config-base': github:bablr-lang/eslint-config-base#a49dbe6861a82d96864ee89fbf0ec1844a8a5e8e
+  '@bablr/eslint-config-base': github:bablr-lang/eslint-config-base#c040bc95f2dddac160628e4757a412016044b3ef
   enhanced-resolve: ^5.12.0
   escape-string-regexp: ^5.0.0
   eslint: ^7.32.0
@@ -13,7 +13,7 @@ dependencies:
   escape-string-regexp: 5.0.0
 
 devDependencies:
-  '@bablr/eslint-config-base': github.com/bablr-lang/eslint-config-base/a49dbe6861a82d96864ee89fbf0ec1844a8a5e8e_eslint@7.32.0
+  '@bablr/eslint-config-base': github.com/bablr-lang/eslint-config-base/c040bc95f2dddac160628e4757a412016044b3ef_eslint@7.32.0
   enhanced-resolve: 5.15.0
   eslint: 7.32.0
   eslint-import-resolver-enhanced-resolve: 1.0.5
@@ -1784,9 +1784,9 @@ packages:
     resolution: {integrity: sha512-3wdGidZyq5PB084XLES5TpOSRA3wjXAlIWMhum2kRcv/41Sn2emQ0dycQW4uZXLejwKvg6EsvbdlVL+FYEct7A==}
     dev: true
 
-  github.com/bablr-lang/eslint-config-base/a49dbe6861a82d96864ee89fbf0ec1844a8a5e8e_eslint@7.32.0:
-    resolution: {tarball: https://codeload.github.com/bablr-lang/eslint-config-base/tar.gz/a49dbe6861a82d96864ee89fbf0ec1844a8a5e8e}
-    id: github.com/bablr-lang/eslint-config-base/a49dbe6861a82d96864ee89fbf0ec1844a8a5e8e
+  github.com/bablr-lang/eslint-config-base/c040bc95f2dddac160628e4757a412016044b3ef_eslint@7.32.0:
+    resolution: {tarball: https://codeload.github.com/bablr-lang/eslint-config-base/tar.gz/c040bc95f2dddac160628e4757a412016044b3ef}
+    id: github.com/bablr-lang/eslint-config-base/c040bc95f2dddac160628e4757a412016044b3ef
     name: '@bablr/eslint-config-base'
     version: 0.0.0
     engines: {node: '>=12.0.0'}
